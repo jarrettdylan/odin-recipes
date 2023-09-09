@@ -1,1 +1,1 @@
-Gonna be practicing HTML by building out a website! :)
+Gonna be practicing HTML and Git command by building out a website and pushing commits to GitHub! :)
